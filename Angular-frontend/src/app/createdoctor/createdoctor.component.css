@@ -1,0 +1,13 @@
+.bg{
+    background-image: url(https://thumbs.dreamstime.com/z/doctor-man-working-laptop-corona-virus-test-table-covid-concept-doctor-man-working-laptop-corona-virus-test-table-176810135.jpg);
+    height: 600px;
+}
+.container{
+    height: auto;
+    background-color: none;
+}
+/* .contact-image{
+    width:auto;
+    height: 100px;
+    border-radius: 50px;
+} */
